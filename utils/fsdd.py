@@ -37,7 +37,6 @@ class FSDD:
     @staticmethod
     def get_spectrograms(data_dir=None):
         """
-
         Args:
             data_dir (string): Path to the directory containing the spectrograms.
 
